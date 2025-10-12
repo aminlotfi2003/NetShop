@@ -1,0 +1,6 @@
+@NetShop.WebAPI_HostAddress = http://localhost:5030
+
+GET {{NetShop.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
